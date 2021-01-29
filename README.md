@@ -1,7 +1,7 @@
 # FluttApp Dictionary
 
 FluttApp Dictionary using flutter technology.
-FluttApp Dictionary using third pary api https://owlbot.info/
+FluttApp Dictionary using third party api https://owlbot.info/
 
 ## Screenshot
 
